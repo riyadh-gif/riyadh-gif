@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Riyadh 👋
 
-<!--
-**riyadh-gif/riyadh-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 PENS Surabaya  
+💻 AI | Cyber Security | DevOps | Research  
+🚀 Currently building AI & IaC projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Current Focus
+- 🔬 AI Research (Rice Disease Classification)
+- ⚙️ Infrastructure as Code (Terraform)
+- 🛡️ Security Lab (OverTheWire, Bandit)
+
+---
+
+## 📊 GitHub Stats
+![Riyadh's GitHub stats](https://github-readme-stats.vercel.app/api?username=riyadh-gif&show_icons=true&theme=tokyonight)
+
+---
+
+## 🧠 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyadh-gif&layout=compact&theme=tokyonight)
+
+---
+
+## 🐍 Contribution Snake
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: ...
+- Medium: ...
