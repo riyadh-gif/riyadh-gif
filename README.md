@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="the-noexistant-you-and-me-no-exist.gif" width="100%" />
-</p>
-
 <h1 align="center">Riyadh Lakadimu</h1>
 
 <p align="center">
