@@ -10,6 +10,16 @@
   <img src="https://komarev.com/ghpvc/?username=riyadh-gif&style=flat-square" />
 </p>
 
+---
+
+## Activity
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## Connect
 
 - LinkedIn: https://www.linkedin.com/in/riyadh-lakadimu-8b178321a/  
