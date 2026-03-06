@@ -1,7 +1,7 @@
 <h1 align="center">Riyadh Lakadimu</h1>
 
 <p align="center">
-  DevOps Engineer • AI Researcher • Physical Layer Security • CTF Player
+  DevOps Engineer • Researcher • CTF Player
 </p>
 
 <p align="center">
