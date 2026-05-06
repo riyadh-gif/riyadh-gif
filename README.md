@@ -79,32 +79,15 @@
 
 ---
 
-## 📊 Stats & Activity
-
-<div align="center">
-
-<!-- GitHub Stats - self-hosted alternative via github.com/anuraghazra -->
-<img height="180em" src="https://github-readme-stats-one-pi-73.vercel.app/api?username=riyadh-gif&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=8b949e&ring_color=00ff88&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats-one-pi-73.vercel.app/api/top-langs/?username=riyadh-gif&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=8b949e&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-<!-- Streak Stats - git.io/streak-stats (lebih stable) -->
-<img src="https://streak-stats.demolab.com?user=riyadh-gif&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=ff6b6b&currStreakNum=ffffff&sideNums=8b949e&currStreakLabel=00ff88&sideLabels=8b949e&dates=6e7681" width="60%" />
-
-</div>
-
 ---
 
-## 🐍 Contribution Activity
+## 🎮 Contribution Activity
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riyadh-gif/riyadh-gif/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riyadh-gif/riyadh-gif/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/riyadh-gif/riyadh-gif/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riyadh-gif/riyadh-gif/output/github-contribution-grid-tetris-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riyadh-gif/riyadh-gif/output/github-contribution-grid-tetris.svg" />
+    <img alt="tetris animation" src="https://raw.githubusercontent.com/riyadh-gif/riyadh-gif/output/github-contribution-grid-tetris.svg" />
   </picture>
 </div>
 
