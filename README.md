@@ -14,7 +14,7 @@
 <p>
   <img src="https://img.shields.io/badge/Status-Building_Something_Cool-00ff88?style=flat-square&labelColor=0d1117&logo=github" />
   <img src="https://img.shields.io/badge/CTF-Active_Player-ff6b6b?style=flat-square&labelColor=0d1117&logo=hackthebox" />
-  <img src="https://img.shields.io/badge/Coffee-Powered-c9a55a?style=flat-square&labelColor=0d1117&logo=buymeacoffee" />
+  <img src="https://img.shields.io/badge/milk-Powered-c9a55a?style=flat-square&labelColor=0d1117&logo=buymeamilk" />
 </p>
 
 <!-- Profile Stats Row -->
