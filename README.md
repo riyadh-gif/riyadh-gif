@@ -84,11 +84,7 @@
 ## 🎮 Contribution Activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riyadh-gif/riyadh-gif/output/github-contribution-grid-tetris-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riyadh-gif/riyadh-gif/output/github-contribution-grid-tetris.svg" />
-    <img alt="tetris animation" src="https://raw.githubusercontent.com/riyadh-gif/riyadh-gif/output/github-contribution-grid-tetris.svg" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riyadh-gif&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=00ff4420&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
 </div>
 
 ---
