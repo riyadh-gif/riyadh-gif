@@ -38,7 +38,7 @@
 │  > DevOps Engineer passionate about infrastructure & sec    │
 │  > Security researcher & CTF enthusiast                     │
 │  > Building reliable systems that scale                     │
-│  > Currently hacking on: [REDACTED]                        │
+│                      │
 │                                                             │
 │  root@riyadh:~$ █                                           │
 └─────────────────────────────────────────────────────────────┘
@@ -61,7 +61,7 @@
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-**Security & CTF**
+**Security**
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
