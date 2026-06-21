@@ -47,9 +47,6 @@ const Riyadh = {
 | :--: | :-- | :-- | :--: |
 | 2025 | Implementation Multi User Secret Key Generation in Outdoor Environment to Secure Image Transmission | IEEE IES 2025, Surabaya | [DOI](https://doi.org/10.1109/IES67184.2025.11161141) |
 
-> [!NOTE]
-> Research focus: physical-layer security, secret key generation (RSSI), IoT security. More papers coming.
-
 ## 📊 Statistics
 <details open>
 <summary><h3>📈 Activity</h3></summary>
