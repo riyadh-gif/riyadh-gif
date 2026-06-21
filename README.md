@@ -67,9 +67,25 @@ const Riyadh = {
 ## 🏋️ When I'm not coding...
 
 <div align="center">
-    <img src="https://media.giphy.com/media/yr7n0u3qzO9nG/giphy.gif" width="360" alt="Gym"/>
-    <br/>
-    <em>Iron sharpens iron — bodybuilding & lifting.</em>
+<table>
+<tr>
+<td align="center"><b>📺 Anime</b></td>
+<td align="center">➡️</td>
+<td align="center"><b>🏋️ Bodybuilding</b></td>
+<td align="center">➡️</td>
+<td align="center"><b>😴 Sleep</b></td>
+<td align="center">🔁</td>
+</tr>
+<tr>
+<td><img src="https://media.tenor.com/tsKtJOqDOGAAAAAC/k-on-anime.gif" width="200" alt="Anime"/></td>
+<td></td>
+<td><img src="https://media.giphy.com/media/yr7n0u3qzO9nG/giphy.gif" width="200" alt="Gym"/></td>
+<td></td>
+<td><img src="https://media.tenor.com/Ac_bKVnQJsYAAAAC/dog-sleepy.gif" width="200" alt="Sleep"/></td>
+<td></td>
+</tr>
+</table>
+<em>...and repeat. That's the cycle. 🔁</em>
 </div>
 
 <div align="center">
