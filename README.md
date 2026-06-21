@@ -69,8 +69,6 @@ const Riyadh = {
 <div align="center">
 <table>
 <tr>
-<td align="center"><b>🍔 Dinner</b></td>
-<td align="center">➡️</td>
 <td align="center"><b>🏋️ Gym</b></td>
 <td align="center">➡️</td>
 <td align="center"><b>🍳 Cooking</b></td>
@@ -79,8 +77,6 @@ const Riyadh = {
 <td align="center">🔁</td>
 </tr>
 <tr>
-<td><img src="https://raw.githubusercontent.com/riyadh-gif/riyadh-gif/main/assets/dinner.jpg" width="180" alt="Dinner"/></td>
-<td></td>
 <td><img src="https://raw.githubusercontent.com/riyadh-gif/riyadh-gif/main/assets/gym.gif" width="180" alt="Gym"/></td>
 <td></td>
 <td><img src="https://media.tenor.com/EW2usLYXAXEAAAAC/gordon-ramsay-cooking.gif" width="180" alt="Cooking"/></td>
