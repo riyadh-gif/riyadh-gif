@@ -64,6 +64,14 @@ const Riyadh = {
     <img src="https://komarev.com/ghpvc/?username=riyadh-gif&style=for-the-badge&color=cba6f7&label=Profile+Views" />
 </div>
 
+## 🏋️ When I'm not coding...
+
+<div align="center">
+    <img src="https://media.giphy.com/media/yr7n0u3qzO9nG/giphy.gif" width="360" alt="Gym"/>
+    <br/>
+    <em>Iron sharpens iron — bodybuilding & lifting.</em>
+</div>
+
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:cba6f7,100:1e1e2e&height=120&section=footer" width="100%" />
 </div>
