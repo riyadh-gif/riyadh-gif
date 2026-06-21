@@ -69,21 +69,21 @@ const Riyadh = {
 <div align="center">
 <table>
 <tr>
-<td align="center"><b>🧘 Aura Farming</b></td>
+<td align="center"><b>🍔 Dinner</b></td>
 <td align="center">➡️</td>
-<td align="center"><b>🏋️ Body Building</b></td>
+<td align="center"><b>🏋️ Gym</b></td>
 <td align="center">➡️</td>
-<td align="center"><b>😴 Sleep</b></td>
+<td align="center"><b>🍳 Cooking</b></td>
 <td align="center">➡️</td>
 <td align="center"><b>💼 Work</b></td>
 <td align="center">🔁</td>
 </tr>
 <tr>
-<td><img src="https://raw.githubusercontent.com/riyadh-gif/riyadh-gif/main/assets/mewing.gif" width="180" alt="Aura Farming"/></td>
+<td><img src="https://raw.githubusercontent.com/riyadh-gif/riyadh-gif/main/assets/dinner.jpg" width="180" alt="Dinner"/></td>
 <td></td>
-<td><img src="https://raw.githubusercontent.com/riyadh-gif/riyadh-gif/main/assets/gym.gif" width="180" alt="Body Building"/></td>
+<td><img src="https://raw.githubusercontent.com/riyadh-gif/riyadh-gif/main/assets/gym.gif" width="180" alt="Gym"/></td>
 <td></td>
-<td><img src="https://media.tenor.com/Ac_bKVnQJsYAAAAC/dog-sleepy.gif" width="180" alt="Sleep"/></td>
+<td><img src="https://media.tenor.com/EW2usLYXAXEAAAAC/gordon-ramsay-cooking.gif" width="180" alt="Cooking"/></td>
 <td></td>
 <td><img src="https://raw.githubusercontent.com/riyadh-gif/riyadh-gif/main/assets/work.gif" width="180" alt="Work"/></td>
 <td></td>
