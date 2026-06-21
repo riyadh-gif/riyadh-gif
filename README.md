@@ -13,7 +13,7 @@
 
 I am a **DevOps Engineer & Security Researcher** at **PENS Surabaya**, with a bias towards reliable infrastructure and offensive security. My actions aim at high results and quality delivery. I never stand still.
 
-Currently I build open-source projects and play **CTF**. I specialize in infrastructure automation, container orchestration, and security research.
+Currently I build open-source projects. I specialize in infrastructure automation, container orchestration, and security research.
 
 At the moment I study Go for high-performance tooling, plus deeper Kubernetes internals and security engineering.
 
@@ -33,7 +33,7 @@ const Riyadh = {
     },
     security: {
         tools: ["Burp Suite", "Wireshark", "Metasploit", "Nmap"],
-        focus: ["CTF", "Pentesting", "Web Security"]
+        focus: ["Pentesting", "Web Security", "Hardening"]
     },
     databases: ["PostgreSQL", "MongoDB", "SQLite"],
 };
