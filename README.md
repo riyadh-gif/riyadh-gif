@@ -79,13 +79,13 @@ const Riyadh = {
 <td align="center">🔁</td>
 </tr>
 <tr>
-<td><img src="./assets/mewing.gif" width="180" alt="Aura Farming"/></td>
+<td><img src="https://raw.githubusercontent.com/riyadh-gif/riyadh-gif/main/assets/mewing.gif" width="180" alt="Aura Farming"/></td>
 <td></td>
-<td><img src="./assets/gym.gif" width="180" alt="Body Building"/></td>
+<td><img src="https://raw.githubusercontent.com/riyadh-gif/riyadh-gif/main/assets/gym.gif" width="180" alt="Body Building"/></td>
 <td></td>
 <td><img src="https://media.tenor.com/Ac_bKVnQJsYAAAAC/dog-sleepy.gif" width="180" alt="Sleep"/></td>
 <td></td>
-<td><img src="./assets/work.gif" width="180" alt="Work"/></td>
+<td><img src="https://raw.githubusercontent.com/riyadh-gif/riyadh-gif/main/assets/work.gif" width="180" alt="Work"/></td>
 <td></td>
 </tr>
 </table>
