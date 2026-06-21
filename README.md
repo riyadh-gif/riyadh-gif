@@ -69,19 +69,23 @@ const Riyadh = {
 <div align="center">
 <table>
 <tr>
-<td align="center"><b>📺 Anime</b></td>
+<td align="center"><b>🧘 Aura Farming</b></td>
 <td align="center">➡️</td>
-<td align="center"><b>🏋️ Bodybuilding</b></td>
+<td align="center"><b>🏋️ Body Building</b></td>
 <td align="center">➡️</td>
 <td align="center"><b>😴 Sleep</b></td>
+<td align="center">➡️</td>
+<td align="center"><b>💼 Work</b></td>
 <td align="center">🔁</td>
 </tr>
 <tr>
-<td><img src="https://media.tenor.com/tsKtJOqDOGAAAAAC/k-on-anime.gif" width="200" alt="Anime"/></td>
+<td><img src="./assets/mewing.gif" width="180" alt="Aura Farming"/></td>
 <td></td>
-<td><img src="https://media.giphy.com/media/yr7n0u3qzO9nG/giphy.gif" width="200" alt="Gym"/></td>
+<td><img src="./assets/gym.gif" width="180" alt="Body Building"/></td>
 <td></td>
-<td><img src="https://media.tenor.com/Ac_bKVnQJsYAAAAC/dog-sleepy.gif" width="200" alt="Sleep"/></td>
+<td><img src="https://media.tenor.com/Ac_bKVnQJsYAAAAC/dog-sleepy.gif" width="180" alt="Sleep"/></td>
+<td></td>
+<td><img src="./assets/work.gif" width="180" alt="Work"/></td>
 <td></td>
 </tr>
 </table>
