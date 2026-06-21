@@ -1,4 +1,6 @@
 <div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:cba6f7,100:1e1e2e&height=200&section=header&text=Riyadh%20Lakadimu&fontSize=50&fontColor=E0DFF1&fontAlignY=38&desc=DevOps%20Engineer%20%E2%80%A2%20Security%20Researcher&descAlignY=60&descSize=18&descColor=cdd6f4&animation=twinkling" width="100%" />
+    <br/>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+Riyadh!" alt="Typing SVG" /></a>
 </div>
 
@@ -60,4 +62,8 @@ const Riyadh = {
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=riyadh-gif&style=for-the-badge&color=cba6f7&label=Profile+Views" />
+</div>
+
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:cba6f7,100:1e1e2e&height=120&section=footer" width="100%" />
 </div>
