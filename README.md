@@ -6,6 +6,7 @@
     <a href="https://github.com/riyadh-gif"><img src="https://img.shields.io/badge/-GitHub-f5e0dc?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub"/></a>
     <a href="https://www.linkedin.com/in/riyadh-lakadimu-8b178321a/"><img src="https://img.shields.io/badge/-LinkedIn-f5c2e7?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
     <a href="https://orcid.org/0009-0001-1078-4908"><img src="https://img.shields.io/badge/-ORCID-cba6f7?style=for-the-badge&logo=orcid&logoColor=A6CE39" alt="ORCID"/></a>
+    <a href="https://huggingface.co/Rexa62626"><img src="https://img.shields.io/badge/-HuggingFace-b4befe?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face"/></a>
 </div>
 
 ## 👻 A little about me...
@@ -38,6 +39,16 @@ const Riyadh = {
     databases: ["PostgreSQL", "MongoDB", "SQLite"],
 };
 ```
+
+## 📚 Publications
+
+<!-- Add new papers as rows. Keep newest on top. -->
+| Year | Title | Venue | Link |
+| :--: | :-- | :-- | :--: |
+| 2025 | Implementation Multi User Secret Key Generation in Outdoor Environment to Secure Image Transmission | IEEE IES 2025, Surabaya | [DOI](https://doi.org/10.1109/IES67184.2025.11161141) |
+
+> [!NOTE]
+> Research focus: physical-layer security, secret key generation (RSSI), IoT security. More papers coming.
 
 ## 📊 Statistics
 <details open>
