@@ -47,7 +47,7 @@ const Riyadh = {
 <!-- Add new papers as rows. Keep newest on top. -->
 | Year | Title | Venue | Link |
 | :--: | :-- | :-- | :--: |
-| 2025 | Implementation Multi User Secret Key Generation in Outdoor Environment to Secure Image Transmission | IEEE IES 2025, Surabaya | [DOI](https://doi.org/10.1109/IES67184.2025.11161141) |
+| 2025 | Implementation Multi User Secret Key Generation in Outdoor Environment to Secure Image Transmission | International Electronics Symposium (IES) | [DOI](https://doi.org/10.1109/IES67184.2025.11161141) |
 
 ## 📊 Statistics
 <details open>
