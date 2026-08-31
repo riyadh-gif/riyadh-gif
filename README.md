@@ -45,52 +45,9 @@ const Riyadh = {
 ## 📚 Publications
 
 <!-- Add new papers as rows. Keep newest on top. -->
-| Year | Title | Venue | Link |
-| :--: | :-- | :-- | :--: |
-| 2025 | Implementation Multi User Secret Key Generation in Outdoor Environment to Secure Image Transmission | International Electronics Symposium (IES) | [DOI](https://doi.org/10.1109/IES67184.2025.11161141) |
-
-## 🧑‍💻 Code
-
-<div align="center">
-    <a href="https://github.com/Mieke-Lab"><img src="https://img.shields.io/badge/Organization-Mieke--Lab-cba6f7?style=for-the-badge&logo=github&logoColor=1e1e2e" alt="Mieke-Lab"/></a>
-    <img src="https://img.shields.io/badge/Focus-Physical--Layer%20Security-f5c2e7?style=for-the-badge" alt="Focus"/>
-    <img src="https://img.shields.io/badge/Also-IoT%20%26%20Edge-b4befe?style=for-the-badge" alt="Also"/>
-</div>
-
-<p align="center"><em>The code behind the publication above. Click a section to open it.</em></p>
-
-<details open>
-<summary><h3>🔐 Physical-Layer Secret Key Generation</h3></summary>
-
-<div align="center">
-    <a href="https://github.com/Mieke-Lab/Tugas-Akhir-SecretKeyGeneration">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mieke-Lab&repo=Tugas-Akhir-SecretKeyGeneration&theme=transparent&show_owner=true" alt="Tugas-Akhir-SecretKeyGeneration"/>
-    </a>
-</div>
-
-| Repository | What it does | Stack | Access |
-| :-- | :-- | :-- | :--: |
-| [**closed-form-mesh-skg**](https://github.com/Mieke-Lab/closed-form-mesh-skg) | *Closed-Form Group Key Generation for 802.11s Mesh under Pilot Contamination* — three-node group SKG pipeline (Alice/Bob/Charlie), TRSD closed-form deobfuscation, BKRR, CARR relay. Ships the measured datasets and every verifier script. **KDR 0 %, NIST 8/8 PASS, Eve KDR ≈ 50 %.** | `Python` `NumPy` `SciPy` `galois` | ![Private](https://img.shields.io/badge/private-f38ba8?style=flat-square) |
-| [**Tugas-Akhir-SecretKeyGeneration**](https://github.com/Mieke-Lab/Tugas-Akhir-SecretKeyGeneration) | Undergraduate thesis: RSSI-based three-node key generation — Kalman pre-processing, BCH reconciliation, AES/hash privacy amplification, NIST SP 800-22 validation. | `Python` `C` | ![Public](https://img.shields.io/badge/public-a6e3a1?style=flat-square) |
-
-<sub>🔒 `closed-form-mesh-skg` is private while the paper is under review — ask me for access.</sub>
-
-</details>
-
-<details>
-<summary><h3>🌾 IoT &amp; Edge</h3></summary>
-
-<div align="center">
-    <a href="https://github.com/Mieke-Lab/Portabledevice-RIKUB">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mieke-Lab&repo=Portabledevice-RIKUB&theme=transparent&show_owner=true" alt="Portabledevice-RIKUB"/>
-    </a>
-</div>
-
-| Repository | What it does | Stack | Access |
-| :-- | :-- | :-- | :--: |
-| [**Portabledevice-RIKUB**](https://github.com/Mieke-Lab/Portabledevice-RIKUB) | *Jaga Padi* — portable rice-field monitoring kiosk for Raspberry Pi 5: SmartGIS mapping, an agricultural AI chatbot, and leaf-disease detection from imagery plus soil sensors. | `Python` `pywebview` `WebKitGTK` | ![Public](https://img.shields.io/badge/public-a6e3a1?style=flat-square) |
-
-</details>
+| Year | Title | Venue | Link | Code |
+| :--: | :-- | :-- | :--: | :--: |
+| 2025 | Implementation Multi User Secret Key Generation in Outdoor Environment to Secure Image Transmission | International Electronics Symposium (IES) | [DOI](https://doi.org/10.1109/IES67184.2025.11161141) | [Code](https://github.com/Mieke-Lab/Tugas-Akhir-SecretKeyGeneration) |
 
 ## 📊 Statistics
 <details open>
