@@ -8,6 +8,7 @@
     <a href="https://github.com/riyadh-gif"><img src="https://img.shields.io/badge/-GitHub-f5e0dc?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub"/></a>
     <a href="https://www.linkedin.com/in/riyadh-lakadimu-8b178321a/"><img src="https://img.shields.io/badge/-LinkedIn-f5c2e7?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
     <a href="https://orcid.org/0009-0001-1078-4908"><img src="https://img.shields.io/badge/-ORCID-cba6f7?style=for-the-badge&logo=orcid&logoColor=A6CE39" alt="ORCID"/></a>
+    <a href="https://scholar.google.com/citations?user=PleeWNYAAAAJ"><img src="https://img.shields.io/badge/-Google%20Scholar-89b4fa?style=for-the-badge&logo=googlescholar&logoColor=4285F4" alt="Google Scholar"/></a>
     <a href="https://huggingface.co/Rexa62626"><img src="https://img.shields.io/badge/-HuggingFace-b4befe?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face"/></a>
 </div>
 
@@ -44,10 +45,16 @@ const Riyadh = {
 
 ## 📚 Publications
 
+Full list and citations on [Google Scholar](https://scholar.google.com/citations?user=PleeWNYAAAAJ).
+
 <!-- Add new papers as rows. Keep newest on top. -->
 | Year | Title | Venue | Link | Code |
 | :--: | :-- | :-- | :--: | :--: |
+| 2026 | Kalman-Filtered Emotion State Estimation with Valence-Asymmetric Contagion for Companion AI | International Electronics Symposium (IES) | [Scholar](https://scholar.google.com/citations?user=PleeWNYAAAAJ) | - |
+| 2026 | Closed-Form Group Key Generation for 802.11s Mesh under Pilot Contamination | International Electronics Symposium (IES) | [Scholar](https://scholar.google.com/citations?user=PleeWNYAAAAJ) | - |
+| 2026 | Phase-Annotated Boxing Punch Dataset from a ZED Stereo Camera with a Lightweight CNN Baseline | International Electronics Symposium (IES) | [Scholar](https://scholar.google.com/citations?user=PleeWNYAAAAJ) | - |
 | 2025 | Implementation Multi User Secret Key Generation in Outdoor Environment to Secure Image Transmission | International Electronics Symposium (IES) | [DOI](https://doi.org/10.1109/IES67184.2025.11161141) | [Code](https://github.com/Mieke-Lab/Tugas-Akhir-SecretKeyGeneration) |
+| 2021 | Metode Terapi Murrotal Al-Quran dalam Penanganan Stres: Studi Kasus pada Mahasiswa PENS Teknologi Rekayasa Internet 2021 | AL YASINI: Jurnal Keislaman, Sosial, Hukum dan Pendidikan | [Scholar](https://scholar.google.com/citations?user=PleeWNYAAAAJ) | - |
 
 ## 📊 Statistics
 <details open>
