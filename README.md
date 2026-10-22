@@ -50,6 +50,9 @@ Full list and citations on [Google Scholar](https://scholar.google.com/citations
 <!-- Add new papers as rows. Keep newest on top. -->
 | Year | Title | Venue | Link | Code |
 | :--: | :-- | :-- | :--: | :--: |
+| 2026 | DaYa-YOLO: Substituting a Frozen Colorimetric Prior for Learned Attention in Edge-Deployed Rice Pest and Disease Detection | International Journal of Intelligent Engineering and Systems (IJIES, INASS) | Accepted, awaiting release | [Code](https://github.com/riyadh-gif/DaYa-YOLO) |
+| 2026 | Channel-Gated Key Transport on Commodity Wi-Fi RSSI: Where the Agreement Comes From and What the Gate Is Worth | International Journal of Intelligent Engineering and Systems (IJIES, INASS) | Accepted, awaiting release | [Code](https://github.com/riyadh-gif/etrcp-le-agreement-source) |
+| 2026 | MADSCAG: A Missingness-Aware Early Warning System for Village-Level Rice Pest Surveillance Under Reactive Monitoring | International Journal of Intelligent Engineering and Systems (IJIES, INASS) | Accepted, awaiting release | - |
 | 2026 | Kalman-Filtered Emotion State Estimation with Valence-Asymmetric Contagion for Companion AI | International Electronics Symposium (IES) | [Scholar](https://scholar.google.com/citations?user=PleeWNYAAAAJ) | - |
 | 2026 | Closed-Form Group Key Generation for 802.11s Mesh under Pilot Contamination | International Electronics Symposium (IES) | [Scholar](https://scholar.google.com/citations?user=PleeWNYAAAAJ) | - |
 | 2026 | Phase-Annotated Boxing Punch Dataset from a ZED Stereo Camera with a Lightweight CNN Baseline | International Electronics Symposium (IES) | [Scholar](https://scholar.google.com/citations?user=PleeWNYAAAAJ) | - |
