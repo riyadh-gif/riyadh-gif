@@ -77,25 +77,7 @@ Full list and citations on [Google Scholar](https://scholar.google.com/citations
 ## 🏋️ When I'm not coding...
 
 <div align="center">
-<table>
-<tr>
-<td align="center"><b>🏋️ Gym</b></td>
-<td align="center">➡️</td>
-<td align="center"><b>🍳 Cooking</b></td>
-<td align="center">➡️</td>
-<td align="center"><b>💼 Work</b></td>
-<td align="center">🔁</td>
-</tr>
-<tr>
-<td><img src="https://raw.githubusercontent.com/riyadh-gif/riyadh-gif/main/assets/gym.gif" width="180" alt="Gym"/></td>
-<td></td>
-<td><img src="https://media.tenor.com/EW2usLYXAXEAAAAC/gordon-ramsay-cooking.gif" width="180" alt="Cooking"/></td>
-<td></td>
-<td><img src="https://raw.githubusercontent.com/riyadh-gif/riyadh-gif/main/assets/work.gif" width="180" alt="Work"/></td>
-<td></td>
-</tr>
-</table>
-<em>...and repeat. That's the cycle. 🔁</em>
+<img src="https://media.tenor.com/eC2TviIVIRUAAAAC/drunken-goddess-reflux-drunken-goddess.gif" width="300" alt="Drunken Goddess"/>
 </div>
 
 <div align="center">
