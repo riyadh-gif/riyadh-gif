@@ -50,6 +50,7 @@ Full list and citations on [Google Scholar](https://scholar.google.com/citations
 <!-- Add new papers as rows. Keep newest on top. -->
 | Year | Title | Venue | Link | Code |
 | :--: | :-- | :-- | :--: | :--: |
+| 2026 | Adaptive Secret Key Generation from Sparse RSSI Observations for LoRa-Based Vehicular Communications | International Journal of Intelligent Engineering and Systems (IJIES, INASS) | Accepted, awaiting release | [code](https://github.com/riyadh-gif/paper_skgrafi)
 | 2026 | DaYa-YOLO: Substituting a Frozen Colorimetric Prior for Learned Attention in Edge-Deployed Rice Pest and Disease Detection | International Journal of Intelligent Engineering and Systems (IJIES, INASS) | Accepted, awaiting release | [Code](https://github.com/riyadh-gif/DaYa-YOLO) |
 | 2026 | Channel-Gated Key Transport on Commodity Wi-Fi RSSI: Where the Agreement Comes From and What the Gate Is Worth | International Journal of Intelligent Engineering and Systems (IJIES, INASS) | Accepted, awaiting release | [Code](https://github.com/riyadh-gif/etrcp-le-agreement-source) |
 | 2026 | MADSCAG: A Missingness-Aware Early Warning System for Village-Level Rice Pest Surveillance Under Reactive Monitoring | International Journal of Intelligent Engineering and Systems (IJIES, INASS) | Accepted, awaiting release | - |
